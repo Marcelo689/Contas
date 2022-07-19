@@ -1,0 +1,50 @@
+{
+  "version": 2,
+  "dgSpecHash": "4P7TBRmKr4kqdCaByfKSr+ZR3u0/uctOLZ9fqx5IbX2yhz2VZwXyycTgxKjhAkkSiQ8TzD8gpFNVgimnRr+47g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Marcelo Jaeger\\Documents\\Contas-main\\GestaoDeContas\\GestaoDeContas\\GestaoDeContas.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Marcelo Jaeger\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
+    "C:\\Users\\Marcelo Jaeger\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.1\\microsoft.bcl.hashcode.1.1.1.nupkg.sha512",
+    "C:\\Users\\Marcelo Jaeger\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\Marcelo Jaeger\\.nuget\\packages\\microsoft.entityframeworkcore\\3.1.26\\microsoft.entityframeworkcore.3.1.26.nupkg.sha512",
+    "C:\\Users\\Marcelo Jaeger\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\3.1.26\\microsoft.entityframeworkcore.abstractions.3.1.26.nupkg.sha512",
+    "C:\\Users\\Marcelo Jaeger\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\3.1.26\\microsoft.entityframeworkcore.analyzers.3.1.26.nupkg.sha512",
+    "C:\\Users\\Marcelo Jaeger\\.nuget\\packages\\microsoft.entityframeworkcore.design\\3.1.26\\microsoft.entityframeworkcore.design.3.1.26.nupkg.sha512",
+    "C:\\Users\\Marcelo Jaeger\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\3.1.26\\microsoft.entityframeworkcore.relational.3.1.26.nupkg.sha512",
+    "C:\\Users\\Marcelo Jaeger\\.nuget\\packages\\microsoft.entityframeworkcore.tools\\3.1.26\\microsoft.entityframeworkcore.tools.3.1.26.nupkg.sha512",
+    "C:\\Users\\Marcelo Jaeger\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\3.1.26\\microsoft.extensions.caching.abstractions.3.1.26.nupkg.sha512",
+    "C:\\Users\\Marcelo Jaeger\\.nuget\\packages\\microsoft.extensions.caching.memory\\3.1.26\\microsoft.extensions.caching.memory.3.1.26.nupkg.sha512",
+    "C:\\Users\\Marcelo Jaeger\\.nuget\\packages\\microsoft.extensions.configuration\\3.1.26\\microsoft.extensions.configuration.3.1.26.nupkg.sha512",
+    "C:\\Users\\Marcelo Jaeger\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.26\\microsoft.extensions.configuration.abstractions.3.1.26.nupkg.sha512",
+    "C:\\Users\\Marcelo Jaeger\\.nuget\\packages\\microsoft.extensions.configuration.binder\\3.1.26\\microsoft.extensions.configuration.binder.3.1.26.nupkg.sha512",
+    "C:\\Users\\Marcelo Jaeger\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\3.1.26\\microsoft.extensions.dependencyinjection.3.1.26.nupkg.sha512",
+    "C:\\Users\\Marcelo Jaeger\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.26\\microsoft.extensions.dependencyinjection.abstractions.3.1.26.nupkg.sha512",
+    "C:\\Users\\Marcelo Jaeger\\.nuget\\packages\\microsoft.extensions.logging\\3.1.26\\microsoft.extensions.logging.3.1.26.nupkg.sha512",
+    "C:\\Users\\Marcelo Jaeger\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.1.26\\microsoft.extensions.logging.abstractions.3.1.26.nupkg.sha512",
+    "C:\\Users\\Marcelo Jaeger\\.nuget\\packages\\microsoft.extensions.options\\3.1.26\\microsoft.extensions.options.3.1.26.nupkg.sha512",
+    "C:\\Users\\Marcelo Jaeger\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.26\\microsoft.extensions.primitives.3.1.26.nupkg.sha512",
+    "C:\\Users\\Marcelo Jaeger\\.nuget\\packages\\mysqlconnector\\0.69.10\\mysqlconnector.0.69.10.nupkg.sha512",
+    "C:\\Users\\Marcelo Jaeger\\.nuget\\packages\\newtonsoft.json\\11.0.2\\newtonsoft.json.11.0.2.nupkg.sha512",
+    "C:\\Users\\Marcelo Jaeger\\.nuget\\packages\\pomelo.entityframeworkcore.mysql\\3.2.7\\pomelo.entityframeworkcore.mysql.3.2.7.nupkg.sha512",
+    "C:\\Users\\Marcelo Jaeger\\.nuget\\packages\\pomelo.jsonobject\\2.2.1\\pomelo.jsonobject.2.2.1.nupkg.sha512",
+    "C:\\Users\\Marcelo Jaeger\\.nuget\\packages\\prism.commands.ex\\0.1.8\\prism.commands.ex.0.1.8.nupkg.sha512",
+    "C:\\Users\\Marcelo Jaeger\\.nuget\\packages\\prism.core\\7.2.0.1422\\prism.core.7.2.0.1422.nupkg.sha512",
+    "C:\\Users\\Marcelo Jaeger\\.nuget\\packages\\system.collections.immutable\\1.7.1\\system.collections.immutable.1.7.1.nupkg.sha512",
+    "C:\\Users\\Marcelo Jaeger\\.nuget\\packages\\system.componentmodel.annotations\\4.7.0\\system.componentmodel.annotations.4.7.0.nupkg.sha512",
+    "C:\\Users\\Marcelo Jaeger\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.1\\system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512",
+    "C:\\Users\\Marcelo Jaeger\\.nuget\\packages\\system.windows.interactivity.wpf\\2.0.20525\\system.windows.interactivity.wpf.2.0.20525.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "O pacote 'System.Windows.Interactivity.WPF 2.0.20525' foi restaurado usando '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' em vez da estrutura de destino do projeto '.NETCoreApp,Version=v3.1'. Esse pacote pode não ser totalmente compatível com o seu projeto.",
+      "libraryId": "System.Windows.Interactivity.WPF",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
+}

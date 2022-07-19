@@ -1,0 +1,110 @@
+C:\Users\marce\Desktop\Automacao\GestaoDeContas\GestaoDeContas\bin\Debug\netcoreapp3.1\GestaoDeContas.exe
+C:\Users\marce\Desktop\Automacao\GestaoDeContas\GestaoDeContas\bin\Debug\netcoreapp3.1\GestaoDeContas.deps.json
+C:\Users\marce\Desktop\Automacao\GestaoDeContas\GestaoDeContas\bin\Debug\netcoreapp3.1\GestaoDeContas.runtimeconfig.json
+C:\Users\marce\Desktop\Automacao\GestaoDeContas\GestaoDeContas\bin\Debug\netcoreapp3.1\GestaoDeContas.runtimeconfig.dev.json
+C:\Users\marce\Desktop\Automacao\GestaoDeContas\GestaoDeContas\bin\Debug\netcoreapp3.1\GestaoDeContas.dll
+C:\Users\marce\Desktop\Automacao\GestaoDeContas\GestaoDeContas\bin\Debug\netcoreapp3.1\GestaoDeContas.pdb
+C:\Users\marce\Desktop\Automacao\GestaoDeContas\GestaoDeContas\obj\Debug\netcoreapp3.1\GestaoDeContas.csproj.AssemblyReference.cache
+C:\Users\marce\Desktop\Automacao\GestaoDeContas\GestaoDeContas\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\marce\Desktop\Automacao\GestaoDeContas\GestaoDeContas\obj\Debug\netcoreapp3.1\GestaoDeContas_MarkupCompile.cache
+C:\Users\marce\Desktop\Automacao\GestaoDeContas\GestaoDeContas\obj\Debug\netcoreapp3.1\GestaoDeContas_MarkupCompile.lref
+C:\Users\marce\Desktop\Automacao\GestaoDeContas\GestaoDeContas\obj\Debug\netcoreapp3.1\GestaoDeContas.g.resources
+C:\Users\marce\Desktop\Automacao\GestaoDeContas\GestaoDeContas\obj\Debug\netcoreapp3.1\GestaoDeContas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marce\Desktop\Automacao\GestaoDeContas\GestaoDeContas\obj\Debug\netcoreapp3.1\GestaoDeContas.AssemblyInfoInputs.cache
+C:\Users\marce\Desktop\Automacao\GestaoDeContas\GestaoDeContas\obj\Debug\netcoreapp3.1\GestaoDeContas.AssemblyInfo.cs
+C:\Users\marce\Desktop\Automacao\GestaoDeContas\GestaoDeContas\obj\Debug\netcoreapp3.1\GestaoDeContas.csproj.CoreCompileInputs.cache
+C:\Users\marce\Desktop\Automacao\GestaoDeContas\GestaoDeContas\obj\Debug\netcoreapp3.1\GestaoDeContas.dll
+C:\Users\marce\Desktop\Automacao\GestaoDeContas\GestaoDeContas\obj\Debug\netcoreapp3.1\GestaoDeContas.pdb
+C:\Users\marce\Desktop\Automacao\GestaoDeContas\GestaoDeContas\obj\Debug\netcoreapp3.1\GestaoDeContas.genruntimeconfig.cache
+C:\Users\marce\Desktop\Automacao\GestaoDeContas\GestaoDeContas\obj\Debug\netcoreapp3.1\View\TelaPrincipalView.g.cs
+C:\Users\marce\Desktop\Automacao\GestaoDeContas\GestaoDeContas\obj\Debug\netcoreapp3.1\View\TelaPrincipalView.baml
+C:\Users\marce\Desktop\Automacao\GestaoDeContas\GestaoDeContas\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\marce\Desktop\Automacao\GestaoDeContas\GestaoDeContas\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\marce\Desktop\Automacao\GestaoDeContas\GestaoDeContas\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\marce\Desktop\Automacao\GestaoDeContas\GestaoDeContas\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\marce\Desktop\Automacao\GestaoDeContas\GestaoDeContas\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\marce\Desktop\Automacao\GestaoDeContas\GestaoDeContas\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\marce\Desktop\Automacao\GestaoDeContas\GestaoDeContas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\marce\Desktop\Automacao\GestaoDeContas\GestaoDeContas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\marce\Desktop\Automacao\GestaoDeContas\GestaoDeContas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\marce\Desktop\Automacao\GestaoDeContas\GestaoDeContas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\marce\Desktop\Automacao\GestaoDeContas\GestaoDeContas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\marce\Desktop\Automacao\GestaoDeContas\GestaoDeContas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\marce\Desktop\Automacao\GestaoDeContas\GestaoDeContas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\marce\Desktop\Automacao\GestaoDeContas\GestaoDeContas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\marce\Desktop\Automacao\GestaoDeContas\GestaoDeContas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\marce\Desktop\Automacao\GestaoDeContas\GestaoDeContas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\marce\Desktop\Automacao\GestaoDeContas\GestaoDeContas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\marce\Desktop\Automacao\GestaoDeContas\GestaoDeContas\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+C:\Users\marce\Desktop\Automacao\GestaoDeContas\GestaoDeContas\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\marce\Desktop\Automacao\GestaoDeContas\GestaoDeContas\bin\Debug\netcoreapp3.1\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\marce\Desktop\Automacao\GestaoDeContas\GestaoDeContas\bin\Debug\netcoreapp3.1\Pomelo.JsonObject.dll
+C:\Users\marce\Desktop\Automacao\GestaoDeContas\GestaoDeContas\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\marce\Desktop\Automacao\GestaoDeContas\GestaoDeContas\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\marce\Desktop\Automacao\GestaoDeContas\GestaoDeContas\obj\Debug\netcoreapp3.1\GestaoDeContas.csproj.CopyComplete
+C:\Users\marce\Desktop\Automacao\GestaoDeContas\GestaoDeContas\bin\Debug\netcoreapp3.1\Prism.dll
+C:\Users\marce\Desktop\Automacao\GestaoDeContas\GestaoDeContas\bin\Debug\netcoreapp3.1\Prism.Commands.Ex.dll
+C:\Users\marce\Desktop\Automacao\GestaoDeContas\GestaoDeContas\bin\Debug\netcoreapp3.1\Microsoft.Expression.Interactions.dll
+C:\Users\marce\Desktop\Automacao\GestaoDeContas\GestaoDeContas\bin\Debug\netcoreapp3.1\System.Windows.Interactivity.dll
+C:\Users\marce\Desktop\Automacao\GestaoDeContas\GestaoDeContas\obj\Debug\netcoreapp3.1\UsersControl\CadastrarUserControl.g.cs
+C:\Users\marce\Desktop\Automacao\GestaoDeContas\GestaoDeContas\obj\Debug\netcoreapp3.1\GeneratedInternalTypeHelper.g.cs
+C:\Users\marce\Desktop\Automacao\GestaoDeContas\GestaoDeContas\obj\Debug\netcoreapp3.1\UsersControl\CadastrarUserControl.baml
+C:\Users\marce\Desktop\Automacao\GestaoDeContas\GestaoDeContas\obj\Debug\netcoreapp3.1\UsersControl\PesquisarUserControl.g.cs
+C:\Users\marce\Desktop\Automacao\GestaoDeContas\GestaoDeContas\obj\Debug\netcoreapp3.1\UsersControl\PesquisarUserControl.baml
+C:\Users\marce\Desktop\Automacao\GestaoDeContas\GestaoDeContas\obj\Debug\netcoreapp3.1\View\AtualizarContaView.g.cs
+C:\Users\marce\Desktop\Automacao\GestaoDeContas\GestaoDeContas\obj\Debug\netcoreapp3.1\View\AtualizarContaView.baml
+C:\Users\Marcelo Jaeger\Documents\Contas-main\GestaoDeContas\GestaoDeContas\bin\Debug\netcoreapp3.1\GestaoDeContas.exe
+C:\Users\Marcelo Jaeger\Documents\Contas-main\GestaoDeContas\GestaoDeContas\bin\Debug\netcoreapp3.1\GestaoDeContas.deps.json
+C:\Users\Marcelo Jaeger\Documents\Contas-main\GestaoDeContas\GestaoDeContas\bin\Debug\netcoreapp3.1\GestaoDeContas.runtimeconfig.json
+C:\Users\Marcelo Jaeger\Documents\Contas-main\GestaoDeContas\GestaoDeContas\bin\Debug\netcoreapp3.1\GestaoDeContas.runtimeconfig.dev.json
+C:\Users\Marcelo Jaeger\Documents\Contas-main\GestaoDeContas\GestaoDeContas\bin\Debug\netcoreapp3.1\GestaoDeContas.dll
+C:\Users\Marcelo Jaeger\Documents\Contas-main\GestaoDeContas\GestaoDeContas\bin\Debug\netcoreapp3.1\GestaoDeContas.pdb
+C:\Users\Marcelo Jaeger\Documents\Contas-main\GestaoDeContas\GestaoDeContas\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Marcelo Jaeger\Documents\Contas-main\GestaoDeContas\GestaoDeContas\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Marcelo Jaeger\Documents\Contas-main\GestaoDeContas\GestaoDeContas\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Marcelo Jaeger\Documents\Contas-main\GestaoDeContas\GestaoDeContas\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Marcelo Jaeger\Documents\Contas-main\GestaoDeContas\GestaoDeContas\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Marcelo Jaeger\Documents\Contas-main\GestaoDeContas\GestaoDeContas\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Marcelo Jaeger\Documents\Contas-main\GestaoDeContas\GestaoDeContas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Marcelo Jaeger\Documents\Contas-main\GestaoDeContas\GestaoDeContas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Marcelo Jaeger\Documents\Contas-main\GestaoDeContas\GestaoDeContas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Marcelo Jaeger\Documents\Contas-main\GestaoDeContas\GestaoDeContas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Marcelo Jaeger\Documents\Contas-main\GestaoDeContas\GestaoDeContas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Marcelo Jaeger\Documents\Contas-main\GestaoDeContas\GestaoDeContas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Marcelo Jaeger\Documents\Contas-main\GestaoDeContas\GestaoDeContas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Marcelo Jaeger\Documents\Contas-main\GestaoDeContas\GestaoDeContas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Marcelo Jaeger\Documents\Contas-main\GestaoDeContas\GestaoDeContas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Marcelo Jaeger\Documents\Contas-main\GestaoDeContas\GestaoDeContas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Marcelo Jaeger\Documents\Contas-main\GestaoDeContas\GestaoDeContas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Marcelo Jaeger\Documents\Contas-main\GestaoDeContas\GestaoDeContas\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+C:\Users\Marcelo Jaeger\Documents\Contas-main\GestaoDeContas\GestaoDeContas\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Marcelo Jaeger\Documents\Contas-main\GestaoDeContas\GestaoDeContas\bin\Debug\netcoreapp3.1\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Marcelo Jaeger\Documents\Contas-main\GestaoDeContas\GestaoDeContas\bin\Debug\netcoreapp3.1\Pomelo.JsonObject.dll
+C:\Users\Marcelo Jaeger\Documents\Contas-main\GestaoDeContas\GestaoDeContas\bin\Debug\netcoreapp3.1\Prism.Commands.Ex.dll
+C:\Users\Marcelo Jaeger\Documents\Contas-main\GestaoDeContas\GestaoDeContas\bin\Debug\netcoreapp3.1\Prism.dll
+C:\Users\Marcelo Jaeger\Documents\Contas-main\GestaoDeContas\GestaoDeContas\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Marcelo Jaeger\Documents\Contas-main\GestaoDeContas\GestaoDeContas\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Marcelo Jaeger\Documents\Contas-main\GestaoDeContas\GestaoDeContas\bin\Debug\netcoreapp3.1\Microsoft.Expression.Interactions.dll
+C:\Users\Marcelo Jaeger\Documents\Contas-main\GestaoDeContas\GestaoDeContas\bin\Debug\netcoreapp3.1\System.Windows.Interactivity.dll
+C:\Users\Marcelo Jaeger\Documents\Contas-main\GestaoDeContas\GestaoDeContas\obj\Debug\netcoreapp3.1\GestaoDeContas.csproj.AssemblyReference.cache
+C:\Users\Marcelo Jaeger\Documents\Contas-main\GestaoDeContas\GestaoDeContas\obj\Debug\netcoreapp3.1\UsersControl\CadastrarUserControl.g.cs
+C:\Users\Marcelo Jaeger\Documents\Contas-main\GestaoDeContas\GestaoDeContas\obj\Debug\netcoreapp3.1\UsersControl\PesquisarUserControl.g.cs
+C:\Users\Marcelo Jaeger\Documents\Contas-main\GestaoDeContas\GestaoDeContas\obj\Debug\netcoreapp3.1\View\AtualizarContaView.g.cs
+C:\Users\Marcelo Jaeger\Documents\Contas-main\GestaoDeContas\GestaoDeContas\obj\Debug\netcoreapp3.1\View\TelaPrincipalView.g.cs
+C:\Users\Marcelo Jaeger\Documents\Contas-main\GestaoDeContas\GestaoDeContas\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Marcelo Jaeger\Documents\Contas-main\GestaoDeContas\GestaoDeContas\obj\Debug\netcoreapp3.1\GeneratedInternalTypeHelper.g.cs
+C:\Users\Marcelo Jaeger\Documents\Contas-main\GestaoDeContas\GestaoDeContas\obj\Debug\netcoreapp3.1\GestaoDeContas_MarkupCompile.cache
+C:\Users\Marcelo Jaeger\Documents\Contas-main\GestaoDeContas\GestaoDeContas\obj\Debug\netcoreapp3.1\GestaoDeContas_MarkupCompile.lref
+C:\Users\Marcelo Jaeger\Documents\Contas-main\GestaoDeContas\GestaoDeContas\obj\Debug\netcoreapp3.1\UsersControl\CadastrarUserControl.baml
+C:\Users\Marcelo Jaeger\Documents\Contas-main\GestaoDeContas\GestaoDeContas\obj\Debug\netcoreapp3.1\UsersControl\PesquisarUserControl.baml
+C:\Users\Marcelo Jaeger\Documents\Contas-main\GestaoDeContas\GestaoDeContas\obj\Debug\netcoreapp3.1\View\AtualizarContaView.baml
+C:\Users\Marcelo Jaeger\Documents\Contas-main\GestaoDeContas\GestaoDeContas\obj\Debug\netcoreapp3.1\View\TelaPrincipalView.baml
+C:\Users\Marcelo Jaeger\Documents\Contas-main\GestaoDeContas\GestaoDeContas\obj\Debug\netcoreapp3.1\GestaoDeContas.g.resources
+C:\Users\Marcelo Jaeger\Documents\Contas-main\GestaoDeContas\GestaoDeContas\obj\Debug\netcoreapp3.1\GestaoDeContas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcelo Jaeger\Documents\Contas-main\GestaoDeContas\GestaoDeContas\obj\Debug\netcoreapp3.1\GestaoDeContas.AssemblyInfoInputs.cache
+C:\Users\Marcelo Jaeger\Documents\Contas-main\GestaoDeContas\GestaoDeContas\obj\Debug\netcoreapp3.1\GestaoDeContas.AssemblyInfo.cs
+C:\Users\Marcelo Jaeger\Documents\Contas-main\GestaoDeContas\GestaoDeContas\obj\Debug\netcoreapp3.1\GestaoDeContas.csproj.CoreCompileInputs.cache
+C:\Users\Marcelo Jaeger\Documents\Contas-main\GestaoDeContas\GestaoDeContas\obj\Debug\netcoreapp3.1\GestaoDeContas.csproj.CopyComplete
+C:\Users\Marcelo Jaeger\Documents\Contas-main\GestaoDeContas\GestaoDeContas\obj\Debug\netcoreapp3.1\GestaoDeContas.dll
+C:\Users\Marcelo Jaeger\Documents\Contas-main\GestaoDeContas\GestaoDeContas\obj\Debug\netcoreapp3.1\GestaoDeContas.pdb
+C:\Users\Marcelo Jaeger\Documents\Contas-main\GestaoDeContas\GestaoDeContas\obj\Debug\netcoreapp3.1\GestaoDeContas.genruntimeconfig.cache
