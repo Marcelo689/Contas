@@ -41,12 +41,15 @@
                    Text="Necessidade" />
        
         <TextBox Grid.Row="2"
+                 Name="Nome"
                  Grid.Column="2"
                  Text="{Binding ContaAtualizar.Nome}" />
         <TextBox Grid.Row="3"
                  Grid.Column="2"
+                 Name="Preco"
                  Text="{Binding ContaAtualizar.Preco, StringFormat=N2}" />
         <ComboBox Grid.Row="4"
+                  Name="Necessidade"
                   SelectedIndex="{Binding ContaAtualizar.Necessidade, UpdateSourceTrigger=PropertyChanged}"
                   ItemsSource="{Binding ComboNecessidade, UpdateSourceTrigger=PropertyChanged}"
                   Grid.Column="2" />
@@ -76,6 +79,7 @@
                 HorizontalAlignment="Center"
                 Grid.ColumnSpan="2"
                 Content="Atualizar"
+                Click="Button_Click"
                 Command="{Binding AtualizarCommand}" />
     </Grid>
 </Window>

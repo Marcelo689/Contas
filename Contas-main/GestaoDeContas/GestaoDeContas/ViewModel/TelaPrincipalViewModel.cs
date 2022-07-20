@@ -120,19 +120,43 @@ namespace GestaoDeContas.ViewModel
             ContaAtualizar = Crud.GetAll().Where(e => e.Id == id).First();
             JanelaEditar = new AtualizarContaView(this);
             var resultado = JanelaEditar.ShowDialog();
-            
-            if(atualizou)
+
+            if (atualizou)
+            {
+                decimal preco = 0.0m;
+                decimal.TryParse(JanelaEditar.Preco.Text, out preco);
+                ContaAtualizar.Situacao = JanelaEditar.comboSituacao.SelectedIndex;
+                ContaAtualizar.DataAPagar = JanelaEditar.DataAPagar.SelectedDate.Value;
+                ContaAtualizar.Necessidade = JanelaEditar.Necessidade.SelectedIndex;
+                ContaAtualizar.Nome = JanelaEditar.Nome.Text;
+                ContaAtualizar.Preco = preco;
                 Crud.Update(ContaAtualizar);
+            }
             atualizou = false;
             Filtrar();
         }
 
         public void Liquidar(int? id)
         {
-            var entidade = Crud.GetAll().Find(e => e.Id == id);
-            entidade.DataFinalizacao = DateTime.Now;
-            entidade.Situacao = 2;
-            Crud.Update(entidade);
+            var selecionados = Crud.GetAll().ToList();
+            selecionados = selecionados.Where(e => e.IsSelected == true).ToList();
+            
+            if(selecionados.Count != 0)
+            {
+                foreach (var item in selecionados)
+                {
+                    item.DataFinalizacao = DateTime.Now;
+                    item.Situacao = 2;
+                    Crud.Update(item);
+                }
+            }
+            else
+            {
+                var entidade = Crud.GetAll().Find(e => e.Id == id);
+                entidade.DataFinalizacao = DateTime.Now;
+                entidade.Situacao = 2;
+                Crud.Update(entidade);
+            }
             Filtrar();
         }
 

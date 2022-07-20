@@ -1,4 +1,6 @@
-﻿using GestaoDeContas.ViewModel;
+﻿using GestaoDeContas.Banco;
+using GestaoDeContas.Model;
+using GestaoDeContas.ViewModel;
 using System.Windows;
 
 namespace GestaoDeContas.View
@@ -12,6 +14,11 @@ namespace GestaoDeContas.View
         {
             InitializeComponent();
             DataContext = viewModel;
+        }
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+            
         }
     }
 }
