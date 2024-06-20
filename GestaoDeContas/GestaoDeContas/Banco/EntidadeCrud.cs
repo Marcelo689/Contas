@@ -1,7 +1,5 @@
-﻿using System;
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 using System.Linq;
-using System.Text;
 
 namespace GestaoDeContas.Banco
 {
@@ -16,7 +14,8 @@ namespace GestaoDeContas.Banco
 
         public TEntity Last()
         {
-            return _conexao.Set<TEntity>().AsEnumerable().Last();
+            var lastEntity = _conexao.Set<TEntity>().AsEnumerable().Last();
+            return lastEntity;
         }
         public void Create(TEntity entidade)
         {

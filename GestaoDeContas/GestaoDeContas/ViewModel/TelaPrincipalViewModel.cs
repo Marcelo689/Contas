@@ -174,7 +174,15 @@ namespace GestaoDeContas.ViewModel
                 
                 Conta.DataCadastro = DateTime.Now;
 
-                int contadorId = Crud.Last().Id + 1;
+                int contadorId = 0;
+                if(Crud.GetAll().Count == 0)
+                {
+                    contadorId = 1;
+                }
+                else{
+                    contadorId = Crud.Last().Id + 1;
+                }
+
                 DateTime dataAPagarParcelado = Conta.DataAPagar;
                 NumeroParcelas = !ComecaNesseMes ? ++NumeroParcelas : NumeroParcelas;
                 if (NumeroParcelas > 0)

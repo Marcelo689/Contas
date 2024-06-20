@@ -1,0 +1,162 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\marce\\OneDrive\\Desktop\\Contas\\GestaoDeContas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B322A6F9-5E8E-47B1-BCA5-640CF052AD54}|GestaoDeContas\\GestaoDeContas.csproj|c:\\users\\marce\\onedrive\\desktop\\contas\\gestaodecontas\\gestaodecontas\\viewmodel\\telaprincipalviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B322A6F9-5E8E-47B1-BCA5-640CF052AD54}|GestaoDeContas\\GestaoDeContas.csproj|solutionrelative:gestaodecontas\\viewmodel\\telaprincipalviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B322A6F9-5E8E-47B1-BCA5-640CF052AD54}|GestaoDeContas\\GestaoDeContas.csproj|c:\\users\\marce\\onedrive\\desktop\\contas\\gestaodecontas\\gestaodecontas\\banco\\entidadecrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B322A6F9-5E8E-47B1-BCA5-640CF052AD54}|GestaoDeContas\\GestaoDeContas.csproj|solutionrelative:gestaodecontas\\banco\\entidadecrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B322A6F9-5E8E-47B1-BCA5-640CF052AD54}|GestaoDeContas\\GestaoDeContas.csproj|c:\\users\\marce\\onedrive\\desktop\\contas\\gestaodecontas\\gestaodecontas\\banco\\conexao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B322A6F9-5E8E-47B1-BCA5-640CF052AD54}|GestaoDeContas\\GestaoDeContas.csproj|solutionrelative:gestaodecontas\\banco\\conexao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\marce\\AppData\\Local\\Temp\\.vsdbgsrc\\1a544fa0cc83686a5dcda9183369a248212606a96ec2b1be6378fd767329045c\\XamlReader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B322A6F9-5E8E-47B1-BCA5-640CF052AD54}|GestaoDeContas\\GestaoDeContas.csproj|c:\\users\\marce\\onedrive\\desktop\\contas\\gestaodecontas\\gestaodecontas\\userscontrol\\pesquisarusercontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B322A6F9-5E8E-47B1-BCA5-640CF052AD54}|GestaoDeContas\\GestaoDeContas.csproj|solutionrelative:gestaodecontas\\userscontrol\\pesquisarusercontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B322A6F9-5E8E-47B1-BCA5-640CF052AD54}|GestaoDeContas\\GestaoDeContas.csproj|c:\\users\\marce\\onedrive\\desktop\\contas\\gestaodecontas\\gestaodecontas\\view\\telaprincipalview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B322A6F9-5E8E-47B1-BCA5-640CF052AD54}|GestaoDeContas\\GestaoDeContas.csproj|solutionrelative:gestaodecontas\\view\\telaprincipalview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B322A6F9-5E8E-47B1-BCA5-640CF052AD54}|GestaoDeContas\\GestaoDeContas.csproj|c:\\users\\marce\\onedrive\\desktop\\contas\\gestaodecontas\\gestaodecontas\\view\\atualizarcontaview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B322A6F9-5E8E-47B1-BCA5-640CF052AD54}|GestaoDeContas\\GestaoDeContas.csproj|solutionrelative:gestaodecontas\\view\\atualizarcontaview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B322A6F9-5E8E-47B1-BCA5-640CF052AD54}|GestaoDeContas\\GestaoDeContas.csproj|c:\\users\\marce\\onedrive\\desktop\\contas\\gestaodecontas\\gestaodecontas\\userscontrol\\cadastrarusercontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B322A6F9-5E8E-47B1-BCA5-640CF052AD54}|GestaoDeContas\\GestaoDeContas.csproj|solutionrelative:gestaodecontas\\userscontrol\\cadastrarusercontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B322A6F9-5E8E-47B1-BCA5-640CF052AD54}|GestaoDeContas\\GestaoDeContas.csproj|c:\\users\\marce\\onedrive\\desktop\\contas\\gestaodecontas\\gestaodecontas\\converters\\situacaocontaconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B322A6F9-5E8E-47B1-BCA5-640CF052AD54}|GestaoDeContas\\GestaoDeContas.csproj|solutionrelative:gestaodecontas\\converters\\situacaocontaconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Conexao.cs",
+              "DocumentMoniker": "C:\\Users\\marce\\OneDrive\\Desktop\\Contas\\GestaoDeContas\\GestaoDeContas\\Banco\\Conexao.cs",
+              "RelativeDocumentMoniker": "GestaoDeContas\\Banco\\Conexao.cs",
+              "ToolTip": "C:\\Users\\marce\\OneDrive\\Desktop\\Contas\\GestaoDeContas\\GestaoDeContas\\Banco\\Conexao.cs",
+              "RelativeToolTip": "GestaoDeContas\\Banco\\Conexao.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAABIAAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T18:52:39.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "XamlReader.cs",
+              "DocumentMoniker": "C:\\Users\\marce\\AppData\\Local\\Temp\\.vsdbgsrc\\1a544fa0cc83686a5dcda9183369a248212606a96ec2b1be6378fd767329045c\\XamlReader.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\1a544fa0cc83686a5dcda9183369a248212606a96ec2b1be6378fd767329045c\\XamlReader.cs",
+              "ToolTip": "C:\\Users\\marce\\AppData\\Local\\Temp\\.vsdbgsrc\\1a544fa0cc83686a5dcda9183369a248212606a96ec2b1be6378fd767329045c\\XamlReader.cs [Somente Leitura]",
+              "RelativeToolTip": "..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\1a544fa0cc83686a5dcda9183369a248212606a96ec2b1be6378fd767329045c\\XamlReader.cs [Somente Leitura]",
+              "ViewState": "AQIAAMYBAAAAAAAAAAAAwMsBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T18:48:06.649Z",
+              "EditorCaption": " [Somente Leitura]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AtualizarContaView.xaml",
+              "DocumentMoniker": "C:\\Users\\marce\\OneDrive\\Desktop\\Contas\\GestaoDeContas\\GestaoDeContas\\View\\AtualizarContaView.xaml",
+              "RelativeDocumentMoniker": "GestaoDeContas\\View\\AtualizarContaView.xaml",
+              "ToolTip": "C:\\Users\\marce\\OneDrive\\Desktop\\Contas\\GestaoDeContas\\GestaoDeContas\\View\\AtualizarContaView.xaml",
+              "RelativeToolTip": "GestaoDeContas\\View\\AtualizarContaView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-17T18:41:52.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EntidadeCrud.cs",
+              "DocumentMoniker": "C:\\Users\\marce\\OneDrive\\Desktop\\Contas\\GestaoDeContas\\GestaoDeContas\\Banco\\EntidadeCrud.cs",
+              "RelativeDocumentMoniker": "GestaoDeContas\\Banco\\EntidadeCrud.cs",
+              "ToolTip": "C:\\Users\\marce\\OneDrive\\Desktop\\Contas\\GestaoDeContas\\GestaoDeContas\\Banco\\EntidadeCrud.cs",
+              "RelativeToolTip": "GestaoDeContas\\Banco\\EntidadeCrud.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAEwA4AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T18:41:52.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TelaPrincipalViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\marce\\OneDrive\\Desktop\\Contas\\GestaoDeContas\\GestaoDeContas\\ViewModel\\TelaPrincipalViewModel.cs",
+              "RelativeDocumentMoniker": "GestaoDeContas\\ViewModel\\TelaPrincipalViewModel.cs",
+              "ToolTip": "C:\\Users\\marce\\OneDrive\\Desktop\\Contas\\GestaoDeContas\\GestaoDeContas\\ViewModel\\TelaPrincipalViewModel.cs",
+              "RelativeToolTip": "GestaoDeContas\\ViewModel\\TelaPrincipalViewModel.cs",
+              "ViewState": "AQIAAKUAAAAAAAAAAAAQwLsAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T18:41:52.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PesquisarUserControl.xaml",
+              "DocumentMoniker": "C:\\Users\\marce\\OneDrive\\Desktop\\Contas\\GestaoDeContas\\GestaoDeContas\\UsersControl\\PesquisarUserControl.xaml",
+              "RelativeDocumentMoniker": "GestaoDeContas\\UsersControl\\PesquisarUserControl.xaml",
+              "ToolTip": "C:\\Users\\marce\\OneDrive\\Desktop\\Contas\\GestaoDeContas\\GestaoDeContas\\UsersControl\\PesquisarUserControl.xaml",
+              "RelativeToolTip": "GestaoDeContas\\UsersControl\\PesquisarUserControl.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-17T18:41:52.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TelaPrincipalView.xaml",
+              "DocumentMoniker": "C:\\Users\\marce\\OneDrive\\Desktop\\Contas\\GestaoDeContas\\GestaoDeContas\\View\\TelaPrincipalView.xaml",
+              "RelativeDocumentMoniker": "GestaoDeContas\\View\\TelaPrincipalView.xaml",
+              "ToolTip": "C:\\Users\\marce\\OneDrive\\Desktop\\Contas\\GestaoDeContas\\GestaoDeContas\\View\\TelaPrincipalView.xaml",
+              "RelativeToolTip": "GestaoDeContas\\View\\TelaPrincipalView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-17T18:41:52.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SituacaoContaConverter.cs",
+              "DocumentMoniker": "C:\\Users\\marce\\OneDrive\\Desktop\\Contas\\GestaoDeContas\\GestaoDeContas\\Converters\\SituacaoContaConverter.cs",
+              "RelativeDocumentMoniker": "GestaoDeContas\\Converters\\SituacaoContaConverter.cs",
+              "ToolTip": "C:\\Users\\marce\\OneDrive\\Desktop\\Contas\\GestaoDeContas\\GestaoDeContas\\Converters\\SituacaoContaConverter.cs",
+              "RelativeToolTip": "GestaoDeContas\\Converters\\SituacaoContaConverter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T18:41:52.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CadastrarUserControl.xaml",
+              "DocumentMoniker": "C:\\Users\\marce\\OneDrive\\Desktop\\Contas\\GestaoDeContas\\GestaoDeContas\\UsersControl\\CadastrarUserControl.xaml",
+              "RelativeDocumentMoniker": "GestaoDeContas\\UsersControl\\CadastrarUserControl.xaml",
+              "ToolTip": "C:\\Users\\marce\\OneDrive\\Desktop\\Contas\\GestaoDeContas\\GestaoDeContas\\UsersControl\\CadastrarUserControl.xaml",
+              "RelativeToolTip": "GestaoDeContas\\UsersControl\\CadastrarUserControl.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-17T18:41:52.46Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
